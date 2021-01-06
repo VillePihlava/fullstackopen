@@ -1,0 +1,94 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 17
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "id": "21149",
+      "votes": 0
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "69581",
+      "votes": 0
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 0
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 0
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "id": "98312",
+      "votes": 0
+    },
+    {
+      "content": "This is a new note",
+      "votes": 0,
+      "id": "Km35mFl"
+    },
+    {
+      "content": "This is another new anecdote",
+      "votes": 2,
+      "id": "uh0fBsf"
+    },
+    {
+      "content": "Test anecdote",
+      "votes": 5,
+      "id": "49-dc6J"
+    },
+    {
+      "content": "Another test",
+      "votes": 2,
+      "id": "1ExBtzh"
+    },
+    {
+      "content": "A test anecdote again",
+      "votes": 1,
+      "id": "SkUK52y"
+    },
+    {
+      "content": "Test anecdote for notification",
+      "votes": 1,
+      "id": "gP_y4vI"
+    },
+    {
+      "content": "Props test",
+      "votes": 1,
+      "id": "1Vvtv_h"
+    },
+    {
+      "content": "Test anecdoteadsfsadf",
+      "votes": 1,
+      "id": "1EAkufn"
+    },
+    {
+      "content": "Timeout test",
+      "votes": 1,
+      "id": "th-LuzN"
+    },
+    {
+      "content": "another timeout test",
+      "votes": 1,
+      "id": "HVeKtml"
+    },
+    {
+      "content": "another test test",
+      "votes": 1,
+      "id": "Q7a8ZPF"
+    },
+    {
+      "content": "A new test anecdote again again",
+      "votes": 0,
+      "id": "5HVP5Un"
+    }
+  ]
+}
