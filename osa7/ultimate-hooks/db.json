@@ -1,0 +1,37 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "asdf",
+      "id": 3
+    },
+    {
+      "content": "testi",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "asfd",
+      "number": "040",
+      "id": 2
+    },
+    {
+      "name": "asfd",
+      "number": "040",
+      "id": 3
+    }
+  ]
+}
